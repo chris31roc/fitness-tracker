@@ -21,5 +21,10 @@
   "bugs": {
     "url": "https://github.com/chris31roc/fitness-tracker/issues"
   },
-  "homepage": "https://github.com/chris31roc/fitness-tracker#readme"
+  "homepage": "https://github.com/chris31roc/fitness-tracker#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.12.1",
+    "morgan": "^1.10.0"
+  }
 }
