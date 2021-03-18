@@ -1,0 +1,25 @@
+{
+  "name": "fitness-tracker",
+  "version": "1.0.0",
+  "description": "An application to view create and track daily workouts. Allows the user to track the name, type, weight, sets, reps, and duration of the workout. If the exercise is a cardio exercise, the user can track the distance traveled. The application is built using mongoose a module of MongoDb, Express and morgan modules.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chris31roc/fitness-tracker.git"
+  },
+  "keywords": [
+    "fitness-tracker",
+    "exercise-app",
+    "fitness-app",
+    "exercise-tracker"
+  ],
+  "author": "Christopher Hicks",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chris31roc/fitness-tracker/issues"
+  },
+  "homepage": "https://github.com/chris31roc/fitness-tracker#readme"
+}
