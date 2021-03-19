@@ -1,6 +1,6 @@
 # Fitness Tracker
 
-![Photo of Application](./images/.png)
+![Photo of Application](./assets/fitness-app.png)
 
 
 # Link to Application
